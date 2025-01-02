@@ -13,6 +13,7 @@ public class Main {
                 case 1->workingPlace.menu();
                 case 2->workingPlace.orders();
                 case 3->workingPlace.changingLanguage();
+                // Malika edited
                 default -> System.out.println("Kechirasiz ammmo siz xato son kiritdingiz");
             }
         }
